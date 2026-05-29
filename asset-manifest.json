@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/url-discovery-analyzing-tool/static/css/main.968ef990.css",
+    "main.js": "/url-discovery-analyzing-tool/static/js/main.1f99e527.js",
+    "index.html": "/url-discovery-analyzing-tool/index.html",
+    "main.968ef990.css.map": "/url-discovery-analyzing-tool/static/css/main.968ef990.css.map",
+    "main.1f99e527.js.map": "/url-discovery-analyzing-tool/static/js/main.1f99e527.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.968ef990.css",
+    "static/js/main.1f99e527.js"
+  ]
+}
