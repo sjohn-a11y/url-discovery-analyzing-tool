@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "homepage": "https://sjohn-a11y.github.io/url-discovery-analyzing-tool",
+=======
+  "homepage": "https://sjohn-a11y.github.io/url-discovery-analyzing-tool" ,
+>>>>>>> f74826096906c3191c3538e64b9686655ee301f1
   "name": "url-discovery-react",
   "version": "0.1.0",
   "private": true,
@@ -15,8 +19,11 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
+<<<<<<< HEAD
 "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
+=======
+>>>>>>> f74826096906c3191c3538e64b9686655ee301f1
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -39,8 +46,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
+=======
+>>>>>>> f74826096906c3191c3538e64b9686655ee301f1
   }
 }
