@@ -15,7 +15,6 @@
     "xlsx": "^0.18.5"
   },
   "scripts": {
-<<<<<<< HEAD
 "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
 
