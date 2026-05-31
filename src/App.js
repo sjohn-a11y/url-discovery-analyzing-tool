@@ -187,7 +187,7 @@ function App() {
 
       // ✅ Fill missing cells BEFORE pushing
       while (data[i].length < totalCols - 3) {
-        data[i].push("");
+        data[i].push(null);
       }
 
       const rowData = processed[i - 1] || {};
