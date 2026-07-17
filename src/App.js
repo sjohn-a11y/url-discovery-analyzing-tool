@@ -212,7 +212,7 @@ function App() {
   return (
     <div className="container">
 
-  <div className="header">🚀 URL Discovery Analyzing Tool</div>
+  <div className="header">🚀 URL Discovery Processing Tool</div>
 
   <input type="file" onChange={handleFileUpload} />
 
