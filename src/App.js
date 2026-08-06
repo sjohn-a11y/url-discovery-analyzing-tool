@@ -307,7 +307,7 @@ function App() {
       </table>
 
       {/* ✅ Input Section */}
-      <div className="section-title">✅ Verification</div>
+      <div className="section-title">✅ Verification-new</div>
 
       <input
         placeholder="No of URLs Verified"
